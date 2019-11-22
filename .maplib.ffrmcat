@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ResponseMapCatalog version="8.1.0.201911190846">
+    <mapCatalog>
+        <item name="response_maps/new_response_map.ffrm"/>
+    </mapCatalog>
+</ResponseMapCatalog>
